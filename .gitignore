@@ -4,3 +4,5 @@ chroma.log
 .vscode
 __pycache__
 record_manager_cache.sql
+.env
+.env
